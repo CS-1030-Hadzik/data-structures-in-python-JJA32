@@ -1,4 +1,4 @@
-# `problem 1. print your first and last name` # type: ignore
+# `problem 1. print your first and last name # type: ignore
 print('Efrain Ignacio')
 # `problem 2. In the cars.py create an array named 'cars' with the following elements in this order  ---- 
 # ' Ford,Chrysler,Dodge,Ram,Jeep,Chevy,GMC` 
